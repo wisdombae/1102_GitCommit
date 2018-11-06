@@ -7,6 +7,7 @@ public class MainActivity extends AppCompatActivity {
     // first git commit
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        //comment one
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
